@@ -257,5 +257,3 @@ Loading operating systems
 
 
 
-
-If you want, I can also make this into exam answers, revision not
