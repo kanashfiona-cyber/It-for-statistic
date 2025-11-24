@@ -1,4 +1,3 @@
-
 Fiona scm 222-0822/2025
 
 1. Introduction to IT & Computers
